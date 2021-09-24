@@ -1,7 +1,15 @@
 _SZAMITOGEP_
 
-alkatrészek:
-videókártya: Gigabyte gtx 1050 ti 4g oc 
+alkatreszek:
+videokartya: Gigabyte gtx 1050 ti 4g oc 
 processzor: intel core i3-8100
-memória: kingston hyperx ddr4 8gb 2400mhz
+memoria: kingston hyperx ddr4 8gb 2400mhz
 alaplap: gigabyte h310m h 2.0
+
+_ALOMGEP_
+
+alkatreszek:
+videokaryta: rtx 3090 
+processzor: i9-11900k
+memoria: 32gb 4000mhz 
+alaplap : asus rog
